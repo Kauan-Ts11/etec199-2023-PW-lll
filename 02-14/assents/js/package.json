@@ -1,0 +1,14 @@
+{
+    "name": "02-14",
+    "version": "1.0.0",
+    "main": "main.js",
+    "type": "module",
+    "scripts": {
+      "start": "node main.js",
+      "build": "webpack"
+    },
+    "keywords": [],
+    "author": "Kauan Gabriel",
+    "license": "ISC",
+    "description": ""
+  }
